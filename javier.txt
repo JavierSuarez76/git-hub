@@ -1,2 +1,4 @@
 nombre completo
 nombre para identificacion
+informacion de cedula sin puntos
+validacion de correo electronico
